@@ -1,8 +1,5 @@
 # apps.sh
 
-![apps](https://github.com/distrohopperuk/apps.sh/assets/159959630/9114e5bf-add3-44a6-9e85-cdb70fc1103a)
-
-
 This BASH script automates the installtion process for various applications across different Linux distributions listed.
 
 > Debian
