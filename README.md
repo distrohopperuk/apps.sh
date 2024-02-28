@@ -46,6 +46,7 @@ plus more!
 
 # Notes:
 Feel free to edit, modify and share this script in anyway that you wish! 
+
 I will add to it more overtime, if you encounter any bugs please get in touch, so i can fix them and update the script.
 
 
