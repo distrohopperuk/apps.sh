@@ -13,6 +13,30 @@ It also adds the flatpak repositories for easy access to even more software!
 
 > Simplifies the setup process across diverse Linux distributions.
 
+# Included packages:
+> neofetch
+> lolcat
+> btop
+> htop
+> rkhunter
+> lynis
+> steam
+> wine
+> winetricks
+> glances
+> vlc player
+> gufw/ufw
+> tldr
+> ranger
+> shotcut
+> simplescreenrecorder
+> plank
+> timshift
+
+plus more! 
+
+(note -> not all applications listed are in every distros repo, 95% of packages are in all though)
+
 # Usage:
 
  1. Clone the repo.
