@@ -1,17 +1,7 @@
 # apps.sh
 ![apps](https://github.com/distrohopperuk/apps.sh/assets/159959630/643d9d64-2fd6-43e5-8023-afdcb0698f05)
 
-This BASH script automates the installtion process for various applications across different Linux distributions listed.
-
-> Debian
-
-> Arch-Linux
-
-> OpenSUSE
-
-> Fedora
-
-> Solus Linux
+This BASH script automates the installtion process for various applications across different Linux distributions listed above.
 
 It also adds the flatpak repositories for easy access to even more software!
 
