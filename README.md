@@ -1,5 +1,7 @@
 # apps.sh
-![apps](https://github.com/distrohopperuk/apps.sh/assets/159959630/643d9d64-2fd6-43e5-8023-afdcb0698f05)
+![update (1)](https://github.com/distrohopperuk/apps.sh/assets/159959630/0ed58622-4891-4f96-8078-f1ce96f779b8)
+
+![Snapshot_2024-02-29_17-05-30 (1)](https://github.com/distrohopperuk/apps.sh/assets/159959630/250d777f-a1c3-4f81-ae51-c6eab276ec7e)
 
 This BASH script automates the installtion process for various applications across different Linux distributions listed above.
 
