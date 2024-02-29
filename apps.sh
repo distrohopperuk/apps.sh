@@ -25,9 +25,11 @@ echo "2 > DEBIAN"
 echo "3 > ARCH"
 echo "4 > OPENSUSE"
 echo "5 > SOLUS"
-echo "6 > EXIT"
+echo "6 > DOWNLOAD EXTRA FONTS"
+echo "7 > EXIT"
+
 echo ""
-read -p " CHOOSE YOUR OPERATING SYSTEM (1-6) : " choice
+read -p " CHOOSE YOUR OPTION (1-7) : " choice
 
 # applications listed below #
 
@@ -306,13 +308,22 @@ sleep 3
 
 6)
 echo ""
+echo "YOU CHOSE DOWNLOAD EXTRA FONTS"
+echo ""
+sleep 3
+bash -c  "$(curl -fsSL https://raw.githubusercontent.com/officialrajdeepsingh/nerd-fonts-installer/main/install.sh)" 
+;;
+
+
+7)
+echo ""
 echo "EXITING NOW" 
 echo ""
 exit 0
 ;;
 
 *)
-echo "INVALID CHOICE, YOU SMOKING CRACK?! (1-6)"
+echo "INVALID CHOICE, YOU SMOKING CRACK?! (1-7)"
 ;;
 
 esac
